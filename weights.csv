@@ -1,0 +1,6 @@
+﻿Metric,Weight
+Cost_per_unit,0.25
+Delivery_time_days,0.2
+Carbon_kgCO2e,0.15
+QualityRating,0.25
+ComplianceScore,0.15

@@ -1,0 +1,10 @@
+# Ignore Python cache and temp files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore large output files
+outputs/
